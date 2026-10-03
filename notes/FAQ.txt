@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+FAQ.txt
+1.13.7 Aug 12 2026 public pin. 1.14 is catalyst.
